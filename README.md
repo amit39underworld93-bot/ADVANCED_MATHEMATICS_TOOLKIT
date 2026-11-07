@@ -3,7 +3,7 @@
 A comprehensive, all-in-one Python Command-Line Interface (CLI) application that consolidates six core mathematical and data science modules into a single execution environment.
 Built entirely with pure Python and fundamental numerical libraries, this toolkit serves as a robust engine for scientific computing, calculus, and machine learning optimization visualization.
 
-# 🚀 Key Features & Modules
+## 🚀 Key Features & Modules
 
 *This application features an interactive main menu that branches into six distinct tools:*
 
@@ -35,7 +35,7 @@ Built entirely with pure Python and fundamental numerical libraries, this toolki
 
    Combines the optimizer with Matplotlib's FuncAnimation to visually animate the step-by-step optimization trajectory of a point descending across a 1D line, 2D contour map, or 3D surface mesh.
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 - **Language:** Python 3
 
@@ -43,7 +43,7 @@ Built entirely with pure Python and fundamental numerical libraries, this toolki
 
 - **Visualization Engine:** `matplotlib` (Plotting and Animations), `scikit-image` (Marching Cubes for 3D implicit surface extraction)
 
-# 💻 How to Run (Installation & Execution)
+## 💻 How to Run (Installation & Execution)
 
 *Follow these steps to run the toolkit on your local machine:*
 
@@ -61,7 +61,7 @@ Built entirely with pure Python and fundamental numerical libraries, this toolki
 
    `python3 main.py`
 
-# 📸 Usage Overview
+## 📸 Usage Overview
 
 *When you launch the application, you will be presented with the primary gateway menu:*
 
@@ -76,7 +76,7 @@ Enter your task between 1 and 6:
 
 *Select the corresponding number to enter the dedicated sub-menu for that specific module.*
 
-# 🛡️ Robust Architecture & Safety Checks
+## 🛡️ Robust Architecture & Safety Checks
 
 *The engine is built to handle edge cases and prevent catastrophic crashes during invalid mathematical operations:*
 
